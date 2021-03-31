@@ -4,4 +4,4 @@
 - letterhead
 # original design and working files are also present:
 - svg's with layers and draft work
-- ".kra" is specific format for use with Krita raster graphics editor.
+- ".kra" is specific format for use with Krita raster graphics editor (https://krita.org/en/)

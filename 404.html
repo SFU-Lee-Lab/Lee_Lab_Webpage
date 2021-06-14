@@ -1,0 +1,26 @@
+---
+layout: default
+title: Page Not Found
+paragaph_1: Sorry – the page you're looking for doesn't exist.
+paragaph_2: Perhaps you typed the URL incorrectly, or it may have moved.
+button_text: Back To Home
+description: Sorry – the page you're looking for doesn't exist.
+featured_image: /images/scenery/fish-pond.jpg
+---
+
+<section class="hero">
+
+	<div class="hero__image" style="background-image: url({{ page.featured_image }})">
+		<div class="hero__overlay"></div>
+	</div>
+
+	<div class="wrap">
+
+		<h1>{{ page.title | flatify }}.</h1>
+		<p class="hero__text editable">{{ page.paragaph_1 | flatify }}</p>
+		<p class="hero__text editable">{{ page.paragaph_2 | flatify }}</p>
+		<p><a href="/" class="button button--large">{{ page.button_text | flatify }}</a></p>
+
+	</div>
+
+</section>

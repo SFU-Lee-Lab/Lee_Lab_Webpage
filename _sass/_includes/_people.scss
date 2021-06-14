@@ -1,0 +1,41 @@
+.people {
+  table {
+    margin: 0px auto;
+
+    // Remove table border.
+    border: 0px solid $text-dark-color;
+
+    border-collapse: separate;
+    border-spacing: 0 $row-spacing;
+
+    // Remove alternate table data background colour every 2nd row.
+    tr {
+
+			&:nth-child(1n) {
+				background: $background-color;
+			}
+		}
+
+    img {
+      // Headshot.
+      border-radius: $headshot-border-radius;
+      object-fit: cover;
+      width: $headshot-length;
+      height: $headshot-length;
+      min-width: $headshot-length;
+    }
+
+    p {
+      line-height: normal;
+    }
+
+    #about {
+      font-size: smaller;
+    }
+
+    td {
+			vertical-align: top;
+    }
+
+  }
+}

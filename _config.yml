@@ -1,0 +1,65 @@
+site: Lee Lab
+
+url:
+baseurl:
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /lab-life/:slug
+  projects:
+    output: true
+    permalink: /project/:slug
+  basic_pages:
+    output: true
+    permalink: /:name
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  -
+    scope:
+      path: ""
+      type: "basic_pages"
+    values:
+      layout: "basic_page"
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 6
+paginate_path: "/lab-life/page:num/"

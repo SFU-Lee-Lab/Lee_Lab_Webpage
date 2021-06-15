@@ -15,7 +15,7 @@ See an up-to-date list of Lee Lab publications on [Google Scholar]({{ site.data.
   {% for publication in site.data.publications %}
   <div class="publication">
   <li>
-    {{ publication | pmid | markdownify }}
+    {{ publication | link_pubmed: 'PMID: ', 'PMCID: ' | markdownify }}
   </li>
   </div>
   <br>

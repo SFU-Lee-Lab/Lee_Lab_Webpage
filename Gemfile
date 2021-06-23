@@ -1,9 +1,9 @@
 source 'https://rubygems.org'
 
-# gem 'jekyll', '3.8.5'
-# Use 3.8.7 to fix this problem:
-# warning: Using the last argument as keyword parameters is deprecated
-gem 'jekyll', '3.8.7'
+gem 'jekyll', '3.9.1'
+gem 'kramdown', '2.3.1'
+# The kramdown GFM parser was only part of the kramdown distribution until kramdown version 2.0.0.
+gem 'kramdown-parser-gfm'
 
 group :jekyll_plugins do
   gem 'jekyll-paginate'

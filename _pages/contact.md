@@ -5,7 +5,7 @@ description: "Contact the {{ site.data.settings.basic_settings.site_title }}."
 featured_image: /images/scenery/quadrangle-large.jpg
 ---
 
-<b>Our Location</b>
+**Our Location**
 
 The lab is located in Metro Vancouver at SFU’s scenic Burnaby Campus, which is atop <i>Lhukw'lhukw'ayten</i>, the traditional <i>Skwxwu7mesh</i> (Squamish) name for Burnaby Mountain.
 
@@ -13,13 +13,13 @@ Finding the lab on campus can be done using [SFU’s Wayfinding Tool](http://www
 
 <br>
 
-<b>Lab Location</b>
+**Lab Location**
 
 South Science Building, Room SSB 7141
 
 <br>
 
-<b>Amy Lee's Office and Contact</b>
+**Amy Lee's Office and Contact**
 
 South Science Building, Room SSB 7107  
 Email: ahl23 at sfu dot ca  
@@ -27,7 +27,7 @@ Telephone: (778) 782-4627
 
 <br>
 
-<b>Mailing Address</b>
+**Mailing Address**
 
 Department of Molecular Biology and Biochemistry  
 Simon Fraser University  

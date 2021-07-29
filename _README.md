@@ -56,7 +56,6 @@ Some pages might have additional front matter variables. To add custom ones, fir
 
 A few other notes:
 - A newline can be forced in markdown by putting two spaces at the end of a line.
-- Text can be styled using markdown or HTML. For example, bold text could be displayed by doing `**text**` or `<b>text</b>`. Although using HTML seems out of place in a markdown file, it works. In fact, styling text with HTML can look better.
 
 ---
 

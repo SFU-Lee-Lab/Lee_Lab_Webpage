@@ -47,7 +47,7 @@
 	color: $text-dark-color;
 
 	&:hover {
-		color: $accent-color;
+		color: $accent-color !important;
 	}
 
 	@include mq(tabletp) {
@@ -209,7 +209,7 @@
 	padding: 10px 0;
 
 	&:hover {
-		color: $accent-color;
+		color: $accent-color !important;
 	}
 
 	@include mq(tabletl) {
@@ -219,7 +219,7 @@
 		color: $text-dark-color;
 
 		&:hover {
-			color: $accent-color;
+			color: $accent-color !important;
 		}
 	}
 
@@ -228,7 +228,7 @@
 	}
 
 	&.active-link {
-		color: $accent-color;
+		color: $text_link_color;
 	}
 }
 

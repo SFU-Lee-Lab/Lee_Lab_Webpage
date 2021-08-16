@@ -2,7 +2,8 @@
 title: People
 subtitle:
 description: "People at the {{ site.data.settings.basic_settings.site_title }}."
-featured_image: /images/mbb/mbb-dept.jpg
+# featured_image: /images/mbb/mbb-dept.jpg
+featured_image: /images/scenery/quadrangle-reflection.jpg
 ---
 
 ## Current
@@ -25,8 +26,10 @@ featured_image: /images/mbb/mbb-dept.jpg
       </td>
       <td>
         <p><b>{{ person.name }}</b>
-        <br><small>{{ person.position }}</small></p>
-        <p id="about">{{ person.about }}</p>
+        <br>{{ person.position }}</p>
+        <div id="about">
+        <p>{{ person.about | markdownify }}</p>
+        </div>
       </td>
     </tr>
     {% endfor %}

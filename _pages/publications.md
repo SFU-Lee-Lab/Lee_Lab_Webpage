@@ -2,7 +2,7 @@
 title: Publications
 subtitle:
 description: "{{ site.data.settings.basic_settings.site_title }} publications."
-featured_image: /images/scenery/sfu-library.jpg
+featured_image: /images/logos/hi-res-and-textured-300dpi-cropped.png
 ---
 
 ## Publications
@@ -11,7 +11,7 @@ See an up-to-date list of Lee Lab publications on [Google Scholar]({{ site.data.
 
 #### Selected Publications
 
-<ol>
+<ul>
   {% for publication in site.data.publications %}
   <div class="publication">
   <li>
@@ -20,4 +20,4 @@ See an up-to-date list of Lee Lab publications on [Google Scholar]({{ site.data.
   </div>
   <br>
   {% endfor %}
-</ol>
+</ul>

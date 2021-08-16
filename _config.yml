@@ -12,7 +12,7 @@ collections:
     permalink: /lab-life/:slug
   projects:
     output: true
-    permalink: /project/:slug
+    permalink: /research/:slug
   basic_pages:
     output: true
     permalink: /:name

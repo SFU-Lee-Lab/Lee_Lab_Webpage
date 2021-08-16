@@ -1,6 +1,6 @@
 ---
 title: Neonatal Immune Development and Sepsis
-subtitle: Subtitle Text
+subtitle:
 date: 2018-06-06 00:00:00
 description: Infection is the most common cause of death in newborns, causing at least 2.6 million infant deaths per year. Even though the majority of newborn deaths occur in resource-poor countries, neonatal morbidity and mortality is also a significant problem in resource-rich countries.
 featured_image: /images/projects/neonatal-immune-development-and-sepsis/infant.jpg

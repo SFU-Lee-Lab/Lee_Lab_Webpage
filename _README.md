@@ -36,7 +36,7 @@ Lab alumni only have a name and position. If there are no lab alumni specified i
 
 ### The `publications.yml` file
 
-Includes a list of publications which are added to the `/publications` page of the site. Note that the created plugin `pmid.rb` (in the `_plugins` folder) will automatically make each PMID a link.
+Includes a list of publications which are added to the `/publications` page of the site. Note that the created plugin `pmid.rb` (in the `_plugins` folder) will automatically make each PMID and PMCID a link.
 
 ---
 
@@ -51,6 +51,8 @@ Most pages are markdown files which can be found in the `_pages` folder. At the 
 `description` – Shown in search engine results and social shares.
 
 `featured_image` – The header image of the page. It is also shown in search engine results and social shares. To make the image lighter or darker, change `overlay_opacity` in `_data/settings.yml`. In order to have the page itself omit the featured image, without having to change any of the page's content, simply drag the file from the `_pages` folder to the `_basic_pages` folder. Once in the `_basic_pages` folder, the page will use the `basic_page.html` layout, which doesn't include the featured image in the page's display.
+
+`gallery_path` – Use this to specify the path to a folder with images to use in an image gallery. To add the gallery to the page, add the text `{% include gallery.md %}` to the page's file. Note, the gallery will not include the `featured_image` of the page (to avoid repetition).
 
 Some pages might have additional front matter variables. To add custom ones, first define it like normal in the front matter. Next, access it in the markdown below by typing `{{ page.<variable_name> }}`.
 

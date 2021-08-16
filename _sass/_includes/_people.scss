@@ -1,5 +1,7 @@
 .people {
   table {
+    min-width: $minimum-table-length;
+
     margin: 0px auto;
 
     // Remove table border.
@@ -30,7 +32,9 @@
     }
 
     #about {
-      font-size: smaller;
+      p {
+        font-size: smaller;
+      }
     }
 
     td {

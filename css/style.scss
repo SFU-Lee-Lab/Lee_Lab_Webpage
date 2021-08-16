@@ -21,6 +21,7 @@ $border-color: {{ site.data.settings.color_settings.border_color }};
 $text-dark-color: {{ site.data.settings.color_settings.text_dark_color }};
 $text-medium-color: {{ site.data.settings.color_settings.text_medium_color }};
 $text-light-color: {{ site.data.settings.color_settings.text_light_color }};
+$text_link_color: {{ site.data.settings.color_settings.text_link_color }};
 
 $accent-color: {{ site.data.settings.color_settings.accent_color }};
 
@@ -129,6 +130,12 @@ $row-spacing: {{ site.data.settings.people.row_spacing }}px;
 $headshot-length: {{ site.data.settings.people.headshot.length }}px;
 $headshot-border-radius: {{ site.data.settings.people.headshot.border_radius }}%;
 $about-line-height: {{ site.data.settings.people.about.line_height }}px;
+$minimum-table-length: {{ site.data.settings.people.minimum_table_length }}px;
+
+
+// Lab life image gallery.
+$gallery-image-width: {{ site.data.settings.gallery.image_width }}px;
+$gallery-image-height: {{ site.data.settings.gallery.image_height }}px;
 
 
 // - - - - - - - - - - Global styles

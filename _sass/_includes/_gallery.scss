@@ -43,7 +43,7 @@
 	.gallery__wrap {
 
 	}
-	
+
 	.gallery__item {
 
 	}
@@ -94,7 +94,7 @@
 		margin-left: -$grid-spacing/2;
 		margin-right: -$grid-spacing/2;
 	}
-	
+
 	.gallery__item {
 		float: left;
 		width: 50%;
@@ -177,5 +177,11 @@
 	}
 }
 
-
-
+.gallery__item--crop {
+  img {
+    object-fit: cover;
+    max-width: $gallery-image-width;
+    max-height: $gallery-image-height;
+    margin: auto;
+  }
+}

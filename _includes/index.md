@@ -1,6 +1,6 @@
 Infectious diseases are 3 of the top 10 leading causes of death globally. In low-income countries, communicable diseases cause more than half of all deaths, especially among vulnerable newborns. In high-income countries such as Canada, infections account for 2-7% of deaths. Bacterial infections are often treatable using antibiotics, but chronic misuse of antibiotics has created a critical global health threat by increasing the presence of antimicrobial resistant organisms, thus further compounding the problem. Given that communicable diseases cause significant personal, societal and economic burdens worldwide, the United Nations highlighted the importance to <i>“accelerate the pace of progress made in fighting … communicable diseases and epidemics, including by addressing growing antimicrobial resistance”</i> in its Sustainable Development Goals.
 
 Our group is interested in applying systems biology approaches to untangle the dynamic interactions between antimicrobial resistant pathogens and the host by:
-1. understanding host immune responses during infection, focusing on the critical area of neonatal sepsis;
-2. characterizing how bacterial pathogens can maintain or disseminate antimicrobial resistant genes in diverse environments; and
-3. identifying novel virulence or antimicrobial resistance genes in these bacterial pathogens.
+1. understanding host immune responses during infection, focusing on the critical area of neonatal sepsis
+2. characterizing how bacterial pathogens can maintain or disseminate antimicrobial resistant genes in diverse environments
+3. identifying novel virulence or antimicrobial resistance genes in these bacterial pathogens

@@ -1,7 +1,7 @@
 current:
   - name: Amy Lee
-    position: Assistant Professor and Head
-    about:
+    position: Assistant Professor and PI
+    about: Dr. Amy Lee received her Ph.D. in Cell and Systems Biology from University of Toronto, and was a postdoctoral fellow at University of British Columbia. Her research focuses on understanding the dynamic interactions between host and pathogens, using both experimental and bioinformatic approaches. Her work ranges from understanding the molecular virulence and antimicrobial resistance mechanisms in pathogens, to looking at host immune responses during development or infection such as sepsis or COVID-19. In her spare time, she likes to work on food fermentation experiments such as culturing sourdough and making kimchi.
     image_path: /images/people/current/amy-lee.jpg
     image_offset: 50% 15%
 
@@ -23,6 +23,12 @@ current:
     image_path: /images/people/current/christine-yang.png
     image_offset: 50% 50%
 
+  - name: Kevin Luong Ning
+    position: Graduate Student
+    about: Born and raised in Trail, BC I finished my undergrad in MBB at SFU. Currently, I'm looking into comparative genomics to characterize *Klebsiella pneumoniae* infections in neonates for my MSc project. I enjoy trying out new hobbies in my spare time and I'm a huge fan of board games.
+    image_path: /images/people/current/kevin-luong-ning.jpg
+    image_offset: 100% 50%
+
   - name: Catherine H. Shin (she/her)
     position: Undergraduate Student
     about: Catherine is an undergrad at Simon Fraser University majoring in MBB and Chemistry and minoring in Educational Psychology. She works on the Pseudomonas project tickering with the mGWAS pipeline. In her free time, she enjoys running, reading, listening to podcasts, and watching cat videos.
@@ -40,6 +46,12 @@ current:
     about: Mahta is an undergraduate research assistant working on a Genome Wide Association Study in collaboration between the Hancock Lab and Lee Lab. Her interest in learning about what makes humans sick and understanding the mechanisms of pathogenesis is what lead her to study Microbiology & Immunology. Outside of the lab, she enjoys biking, drawing, and juggling 5 Netflix shows at once.
     image_path: /images/people/current/mahta-amanian.jpg
     image_offset: 90% 50%
+
+  - name: Elizabeth Fung
+    position: Undergraduate Student
+    about: I am an undergraduate student in SFU's molecular biology and biochemistry department. Outside of the lab, I enjoy baking, hiking, and playing piano, violin, and soccer.
+    image_path: /images/people/current/elizabeth-fung.jpg
+    image_offset: 50% 50%
 
 alumni:
   # - name: Put_Name_Here

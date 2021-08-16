@@ -1,6 +1,6 @@
 ---
 title: Pathogen Genomics and Hypothetical Proteins
-subtitle: Subtitle Text
+subtitle:
 date: 2018-06-06 00:00:00
 description: Since the completion of the first bacterial genome in 1995, we have seen massive technological advances and cost reduction in genome sequencing over the last 25 years. This has resulted in a large number of available bacterial genomes (263,273 bacterial genomes available on NCBI as of 2020/09/19).
 featured_image: /images/projects/pathogen-genomics-and-hypothetical-proteins/genomes-genes-profile.png

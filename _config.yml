@@ -1,7 +1,7 @@
 site: Lee Lab
 
-url:
-baseurl:
+url: https://sfu-lee-lab.github.io
+baseurl: /Lee_Lab_Webpage
 
 collections:
   pages:

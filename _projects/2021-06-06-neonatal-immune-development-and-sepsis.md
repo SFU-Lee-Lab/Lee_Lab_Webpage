@@ -8,7 +8,7 @@ featured_image: /images/projects/neonatal-immune-development-and-sepsis/infant.j
 
 Infection is the most common cause of death in newborns, causing at least 2.6 million infant deaths per year. Even though the majority of newborn deaths occur in resource-poor countries, neonatal morbidity and mortality is also a significant problem in resource-rich countries. For instance, in Canada, 75% of infant deaths under 1 year occur during this critical newborn stage. Our group is working to understand why newborns are so prone to infections and the pathogens at play, so that we can develop effective interventions and preventions against diseases.
 
-![](/images/projects/neonatal-immune-development-and-sepsis/rna-seq.png)
+![]({{ site.baseurl }}/images/projects/neonatal-immune-development-and-sepsis/rna-seq.png)
 
 <smaller>Figure 1: Transcriptomics by RNA-Seq identified a robust trajectory of differentially expressed genes (left) that form a highly interconnected biological network (right).</smaller>
 

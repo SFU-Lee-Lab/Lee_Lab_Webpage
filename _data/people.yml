@@ -17,7 +17,7 @@ current:
     image_path: /images/people/current/pat-taylor.jpg
     image_offset: 75% 50%
 
-  - name: Christine Yang (he/him)
+  - name: Christine Yang (she/her)
     position: Master's Student
     about: Christine is a master's student in the Lee Lab focusing on bioinformatics research. Her study focuses on GWAS pipelines and pseudomonas aeruginosa antibiotic resistance, biofilm formation, and swarming research. Besides studying, most of her time is on learning software, coding, and financial analysis.
     image_path: /images/people/current/christine-yang.png

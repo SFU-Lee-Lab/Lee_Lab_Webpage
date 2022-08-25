@@ -179,7 +179,7 @@ gallery:
   image_height: 600
 
 urls:
-  google_scholar: https://scholar.google.com/citations?user=fxK8Q38AAAAJ&hl=en
+  google_scholar: https://scholar.google.com/citations?hl=en&user=Ub2zal8AAAAJ
 
 advanced_settings:
   ajax_loading: true

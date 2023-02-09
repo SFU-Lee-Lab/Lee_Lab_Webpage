@@ -11,51 +11,49 @@ current:
     image_path: /images/people/current/erica-acton.jpg
     image_offset: 68% 50%
 
-  - name: Patrick K. Taylor (he/him)
-    position: Postdoc
-    about: Pat is a postdoc in the lab primarily at the bench using his skill sets in bacterial genetics and microbiological techniques to study mechanisms of virulence and antibiotic resistance. Outside of the lab on his own time he continues to ponder about microbes even as he is working his garden, poking around tidal pools, painting, or brewing his beer.
-    image_path: /images/people/current/pat-taylor.jpg
-    image_offset: 75% 50%
-
-  - name: Christine Yang (she/her)
-    position: Master's Student
-    about: Christine is a master's student in the Lee Lab focusing on bioinformatics research. Her study focuses on GWAS pipelines and pseudomonas aeruginosa antibiotic resistance, biofilm formation, and swarming research. Besides studying, most of her time is on learning software, coding, and financial analysis.
-    image_path: /images/people/current/christine-yang.png
-    image_offset: 50% 50%
-
   - name: Kevin Luong Ning (he/him)
     position: Graduate Student
     about: Kevin is a graduate student in the Lee Lab focusing on comparative genomics to characterize *Klebsiella pneumoniae* infections in neonates for his MSc project. He enjoys learning new songs to play on the ukulele in his spare time and is frequently seen playing billiards.
     image_path: /images/people/current/kevin-luong-ning.jpg
     image_offset: 100% 50%
 
+  
+alumni:
+  - name: Patrick K. Taylor (he/him)
+    position: Postdoc
+    about: Pat is a postdoc in the lab primarily at the bench using his skill sets in bacterial genetics and microbiological techniques to study mechanisms of virulence and antibiotic resistance. Outside of the lab on his own time he continues to ponder about microbes even as he is working his garden, poking around tidal pools, painting, or brewing his beer.
+    image_path: /images/people/alumni/pat-taylor.jpg
+    image_offset: 75% 50%
+
+  - name: Christine Yang (she/her)
+    position: Master's Student
+    about: Christine is a master's student in the Lee Lab focusing on bioinformatics research. Her study focuses on GWAS pipelines and pseudomonas aeruginosa antibiotic resistance, biofilm formation, and swarming research. Besides studying, most of her time is on learning software, coding, and financial analysis.
+    image_path: /images/people/alumni/christine-yang.png
+    image_offset: 50% 50%
+
   - name: Catherine H. Shin (she/her)
     position: Undergraduate Student
     about: Catherine is an undergrad at Simon Fraser University majoring in MBB and Chemistry and minoring in Educational Psychology. She works on the Pseudomonas project tinkering with the mGWAS pipeline. In her free time, she enjoys running, reading, listening to podcasts, and watching cat videos.
-    image_path: /images/people/current/catherine-shin.png
+    image_path: /images/people/alumni/catherine-shin.png
     image_offset: 50% 50%
 
   - name: Karen Kang (she/her)
     position: Undergraduate Student
     about: Karen is an undergrad in the lab primarily conducting antibiotic resistance experiments. In her spare time, she likes to draw, play ultimate frisbee and watch Korean dramas.
-    image_path: /images/people/current/karen-kang.jpg
+    image_path: /images/people/alumni/karen-kang.jpg
     image_offset: 50% 50%
 
   - name: Mahta Amanian (she/her)
     position: Undergraduate Research Assistant
     about: Mahta is an undergraduate research assistant working on a Genome Wide Association Study in collaboration between the Hancock Lab and Lee Lab. Her interest in learning about what makes humans sick and understanding the mechanisms of pathogenesis is what lead her to study Microbiology & Immunology. Outside of the lab, she enjoys biking, drawing, and juggling 5 Netflix shows at once.
-    image_path: /images/people/current/mahta-amanian.jpg
+    image_path: /images/people/alumni/mahta-amanian.jpg
     image_offset: 90% 50%
-
+    
   - name: Elizabeth Fung
     position: Undergraduate Student
     about: Elizabeth is an undergraduate molecular biology and biochemistry student conducting bacterial phenotyping assays. Outside of the lab, she enjoys baking, hiking, and playing piano, violin, and soccer.
-    image_path: /images/people/current/elizabeth-fung.jpg
+    image_path: /images/people/alumni/elizabeth-fung.jpg
     image_offset: 50% 50%
 
-alumni:
-  # - name: Put_Name_Here
-  #   position: Put_Position_Here
-  #
   # - name: Put_Name_Here
   #   position: Put_Position_Here

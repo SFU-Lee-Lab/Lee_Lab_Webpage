@@ -10,12 +10,30 @@ current:
     about: Erica is a bioinformatician who eats ‘omics data for breakfast. She is currently using machine learning techniques to find molecular signatures for neonatal sepsis, as well as for disease severity in Covid patients. In her spare time she likes to hike preposterous distances, preferably on difficult terrain.
     image_path: /images/people/current/erica-acton.jpg
     image_offset: 68% 50%
+    
+  - name: Joud Albeitshawish
+    position: Research Technician
+    about: oud is a research technician at the Lee lab, co-supervised by Dr. Brinkman and Dr. Hsiao. She is currently working on nanopore sequencing and phenotype assays of antimicrobial-resistant microorganisms responsible for neonatal sepsis. When she’s not in the lab, Joud likes to take pictures, bake delicious treats, and seek out new adventures and experiences with her friends.
+    image_path: /images/people/current/joud-albeitshawish.jpeg
+    image_offset: 100% 100%
 
   - name: Kevin Luong Ning (he/him)
     position: Graduate Student
     about: Kevin is a graduate student in the Lee Lab focusing on comparative genomics to characterize *Klebsiella pneumoniae* infections in neonates for his MSc project. He enjoys learning new songs to play on the ukulele in his spare time and is frequently seen playing billiards.
     image_path: /images/people/current/kevin-luong-ning.jpg
     image_offset: 100% 50%
+
+  - name: Negin Ketabchi (she/her)
+    position: Graduate Research Assistant
+    about: Negin is a research assistant in the Lee lab with an undergraduate degree in Molecular Biology and Biochemistry. She is currently characterizing pathogen-associated genes in Pseudomonas aeruginosa to determine their virulence functions. In her spare time, she enjoys weight lifting at the gym, drinking ice coffee and watching true crime tv shows. 
+    image_path: /images/people/current/negin-ketabchi.jpeg
+    image_offset: 0% 10%   
+    
+  - name: Sarah Ribeiro-Sahib
+    position: Undergraduate Student
+    about: Sarah is an undergraduate student doing the directed studies program in the Lee Lab focusing on Pseudomonas aeruginosa isolates obtained from neonates. In her spare time, she enjoys outdoor adventures and playing the flute! 
+    image_path: /images/people/current/sarah-ribeiro-sahib.jpeg
+    image_offset: 100% 100% 
 
   
 alumni:
@@ -26,7 +44,7 @@ alumni:
     image_offset: 75% 50%
 
   - name: Christine Yang (she/her)
-    position: Master's Student
+    position: DevOps at Amazon
     about: Christine is a master's student in the Lee Lab focusing on bioinformatics research. Her study focuses on GWAS pipelines and pseudomonas aeruginosa antibiotic resistance, biofilm formation, and swarming research. Besides studying, most of her time is on learning software, coding, and financial analysis.
     image_path: /images/people/alumni/christine-yang.png
     image_offset: 50% 50%
@@ -38,19 +56,19 @@ alumni:
     image_offset: 50% 50%
 
   - name: Karen Kang (she/her)
-    position: Undergraduate Student
+    position: Master of Public Health Student at the University of Toronto
     about: Karen is an undergrad in the lab primarily conducting antibiotic resistance experiments. In her spare time, she likes to draw, play ultimate frisbee and watch Korean dramas.
     image_path: /images/people/alumni/karen-kang.jpg
     image_offset: 50% 50%
 
   - name: Mahta Amanian (she/her)
-    position: Undergraduate Research Assistant
+    position: BSc in Microbiology & Immunology (UBC), Master of Management Student at the UBC Sauder School of Business
     about: Mahta is an undergraduate research assistant working on a Genome Wide Association Study in collaboration between the Hancock Lab and Lee Lab. Her interest in learning about what makes humans sick and understanding the mechanisms of pathogenesis is what lead her to study Microbiology & Immunology. Outside of the lab, she enjoys biking, drawing, and juggling 5 Netflix shows at once.
     image_path: /images/people/alumni/mahta-amanian.jpg
     image_offset: 90% 50%
     
   - name: Elizabeth Fung
-    position: Undergraduate Student
+    position: Undergraduate Student in Molecular Biology and Biochemistry (SFU)
     about: Elizabeth is an undergraduate molecular biology and biochemistry student conducting bacterial phenotyping assays. Outside of the lab, she enjoys baking, hiking, and playing piano, violin, and soccer.
     image_path: /images/people/alumni/elizabeth-fung.jpg
     image_offset: 50% 50%

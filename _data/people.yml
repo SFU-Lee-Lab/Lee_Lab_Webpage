@@ -35,10 +35,25 @@ current:
     image_path: /images/people/current/sarah-ribeiro-sahib.jpeg
     image_offset: 100% 100% 
 
-  
+  - name: Zukhro Pulatova
+    position: Undergraduate Student
+    about:  Zukhro's research focused on isolating, identifying and examining K. pneumoniae from water sources and documenting their prevalence in these habitats. She will also perform whole-genome sequencing to determine their virulence potential and antibiotic resistance genes. In her free time she enjoys going on a walk.
+    image_path: /images/people/current/zukhro-pulatova.jpg
+    image_offset: 50% 50%
+    
+  - name: Liam Janicke
+    position: Graduate Student
+    image_path: /images/people/blank-headshot.png
+    image_offset: 100% 100%
+    
+  - name: Miguel D. Prieto
+    position: Graduate Student (Co-supervised with Dr. Hsaio)
+    image_path: /images/people/blank-headshot.png
+    image_offset: 100% 100%
+    
 alumni:
   - name: Patrick K. Taylor (he/him)
-    position: Postdoc
+    position: Researcher Scientist at KPU Applied Genomics Centre
     about: Pat is a postdoc in the lab primarily at the bench using his skill sets in bacterial genetics and microbiological techniques to study mechanisms of virulence and antibiotic resistance. Outside of the lab on his own time he continues to ponder about microbes even as he is working his garden, poking around tidal pools, painting, or brewing his beer.
     image_path: /images/people/alumni/pat-taylor.jpg
     image_offset: 75% 50%
@@ -50,7 +65,7 @@ alumni:
     image_offset: 50% 50%
 
   - name: Catherine H. Shin (she/her)
-    position: Undergraduate Student
+    position: Graduate Student at the University of California San Francisco
     about: Catherine is an undergrad at Simon Fraser University majoring in MBB and Chemistry and minoring in Educational Psychology. She works on the Pseudomonas project tinkering with the mGWAS pipeline. In her free time, she enjoys running, reading, listening to podcasts, and watching cat videos.
     image_path: /images/people/alumni/catherine-shin.png
     image_offset: 50% 50%
@@ -62,7 +77,7 @@ alumni:
     image_offset: 50% 50%
 
   - name: Mahta Amanian (she/her)
-    position: BSc in Microbiology & Immunology (UBC), Master of Management Student at the UBC Sauder School of Business
+    position: Master of Management Student at the UBC Sauder School of Business
     about: Mahta is an undergraduate research assistant working on a Genome Wide Association Study in collaboration between the Hancock Lab and Lee Lab. Her interest in learning about what makes humans sick and understanding the mechanisms of pathogenesis is what lead her to study Microbiology & Immunology. Outside of the lab, she enjoys biking, drawing, and juggling 5 Netflix shows at once.
     image_path: /images/people/alumni/mahta-amanian.jpg
     image_offset: 90% 50%
@@ -73,5 +88,3 @@ alumni:
     image_path: /images/people/alumni/elizabeth-fung.jpg
     image_offset: 50% 50%
 
-  # - name: Put_Name_Here
-  #   position: Put_Position_Here

@@ -41,11 +41,6 @@ current:
     image_path: /images/people/current/zukhro-pulatova.jpg
     image_offset: 50% 50%
     
-  - name: Liam Janicke
-    position: Graduate Student
-    image_path: /images/people/blank-headshot.png
-    image_offset: 100% 100%
-    
   - name: Miguel D. Prieto
     position: Graduate Student (Ph.D.) co-supervised with Dr. William Hsaio
     about: Miguel studies the impact of the microbiome in human disease. He is a Medical Doctor from the Universidad del Valle (Colombia) and has a MSc in Experimental Medicine (UBC). He has experience working in clinical research of neglected tropical diseases and biomarker discovery for Cystic Fibrosis. In his spare time, he likes to ride his bicycle (weather permitting), read fiction literature, and listen to punk rock music. 

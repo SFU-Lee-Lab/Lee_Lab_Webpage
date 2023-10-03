@@ -10,7 +10,7 @@ current:
     about: Erica is a bioinformatician who eats ‘omics data for breakfast. She is currently using machine learning techniques to find molecular signatures for neonatal sepsis, as well as for disease severity in Covid patients. In her spare time she likes to hike preposterous distances, preferably on difficult terrain.
     image_path: /images/people/current/erica-acton.jpg
     image_offset: 68% 50%
-    
+
   - name: Joud Albeitshawish
     position: Research Technician
     about: oud is a research technician at the Lee lab, co-supervised by Dr. Brinkman and Dr. Hsiao. She is currently working on nanopore sequencing and phenotype assays of antimicrobial-resistant microorganisms responsible for neonatal sepsis. When she’s not in the lab, Joud likes to take pictures, bake delicious treats, and seek out new adventures and experiences with her friends.
@@ -24,29 +24,41 @@ current:
     image_offset: 100% 50%
 
   - name: Negin Ketabchi (she/her)
-    position: Graduate Research Assistant
+    position: Graduate Student
     about: Negin is a research assistant in the Lee lab with an undergraduate degree in Molecular Biology and Biochemistry. She is currently characterizing pathogen-associated genes in Pseudomonas aeruginosa to determine their virulence functions. In her spare time, she enjoys weight lifting at the gym, drinking ice coffee and watching true crime tv shows. 
     image_path: /images/people/current/negin-ketabchi.jpeg
-    image_offset: 0% 10%   
-    
-  - name: Sarah Ribeiro-Sahib
-    position: Undergraduate Student
-    about: Sarah is an undergraduate student doing the directed studies program in the Lee Lab focusing on Pseudomonas aeruginosa isolates obtained from neonates. In her spare time, she enjoys outdoor adventures and playing the flute! 
-    image_path: /images/people/current/sarah-ribeiro-sahib.jpeg
-    image_offset: 100% 100% 
+    image_offset: 0% 10%
 
-  - name: Zukhro Pulatova
-    position: Undergraduate Student
-    about:  Zukhro's research focused on isolating, identifying and examining K. pneumoniae from water sources and documenting their prevalence in these habitats. She will also perform whole-genome sequencing to determine their virulence potential and antibiotic resistance genes. In her free time she enjoys going on a walk.
-    image_path: /images/people/current/zukhro-pulatova.jpg
+  - name: Jonathan Ho
+    position: Graduate Research Assistant
+    about: Jonathan is a research assistant in the Lee Lab studying *Klebsiella pneumoniae* using microbial GWAS and pangenome analyses to identify targets of interest. In his spare time, he enjoys playing volleyball and practicing piano.
+    image_path: /images/people/current/jonathan-ho.jpg
     image_offset: 50% 50%
-    
+
+  - name: Pearl Park
+    position: Undergraduate Co-op Student co-supervised with Dr. Pascal Lavoie
+    about: Pearl is an undergraduate student who is co-supervised by Dr. Lavoie and is working at the Lee Lab for her co-op term. Her project is based on finding any viral transcripts in RNA sequencing data of septic neonates. In her spare time, she enjoys playing spikeball and badminton with her friends and family.
+    image_path: /images/people/current/pearl-park.jpeg
+    image_offset: 100% 30%
+
+  - name: Chloe Chan
+    position: Undergraduate Research Student
+    about: Chloe is an undergraduate student in the UBC-BCIT Joint Honours in Biotechnology program. She is currently utilizing cloning strategies to determine the virulence functions of pathogen-associated genes in *Pseudomonas aeruginosa*. She is also working on developing cloning strategies to produce microbial pigments. In her spare time she enjoys biking, crocheting, and finding cute coffee shops around Vancouver with her friends.
+    image_path: /images/people/current/chloe-chan.JPG
+    image_offset: 100% 100%
+
+  - name: Xiao Wu
+    position: Undergraduate Research Student co-supervised with Dr. Claudia DosSantos
+    about: Xiao is an undergraduate student helping with the detection of viral infections using RNA sequencing data from human samples. In her spare time, she enjoys exploring restaurants with friends, watching anime, and doing workouts at the gym.
+    image_path: /images/people/current/xiao-wu.jpg
+    image_offset: 100% 100%
+
   - name: Miguel D. Prieto
     position: Graduate Student (Ph.D.) co-supervised with Dr. William Hsaio
     about: Miguel studies the impact of the microbiome in human disease. He is a Medical Doctor from the Universidad del Valle (Colombia) and has a MSc in Experimental Medicine (UBC). He has experience working in clinical research of neglected tropical diseases and biomarker discovery for Cystic Fibrosis. In his spare time, he likes to ride his bicycle (weather permitting), read fiction literature, and listen to punk rock music. 
     image_path: /images/people/current/miguel_prieto.jpg
     image_offset: 30% 0%
-    
+
 alumni:
   - name: Patrick K. Taylor (he/him)
     position: Senior Genome Scientist in the Applied Genomics Centre at Kwantlen Polytechnic University
@@ -77,10 +89,21 @@ alumni:
     about: Mahta is an undergraduate research assistant working on a Genome Wide Association Study in collaboration between the Hancock Lab and Lee Lab. Her interest in learning about what makes humans sick and understanding the mechanisms of pathogenesis is what lead her to study Microbiology & Immunology. Outside of the lab, she enjoys biking, drawing, and juggling 5 Netflix shows at once.
     image_path: /images/people/alumni/mahta-amanian.jpg
     image_offset: 90% 50%
-    
+
   - name: Elizabeth Fung
     position: Undergraduate Student in Molecular Biology and Biochemistry (SFU)
     about: Elizabeth is an undergraduate molecular biology and biochemistry student conducting bacterial phenotyping assays. Outside of the lab, she enjoys baking, hiking, and playing piano, violin, and soccer.
     image_path: /images/people/alumni/elizabeth-fung.jpg
     image_offset: 50% 50%
 
+  - name: Sarah Ribeiro-Sahib
+    position: Undergraduate Student
+    about: Sarah is an undergraduate student doing the directed studies program in the Lee Lab focusing on Pseudomonas aeruginosa isolates obtained from neonates. In her spare time, she enjoys outdoor adventures and playing the flute! 
+    image_path: /images/people/current/sarah-ribeiro-sahib.jpeg
+    image_offset: 100% 100%
+
+  - name: Zukhro Pulatova
+    position: Undergraduate Student
+    about:  Zukhro's research focused on isolating, identifying and examining K. pneumoniae from water sources and documenting their prevalence in these habitats. She will also perform whole-genome sequencing to determine their virulence potential and antibiotic resistance genes. In her free time she enjoys going on a walk.
+    image_path: /images/people/current/zukhro-pulatova.jpg
+    image_offset: 50% 50%

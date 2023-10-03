@@ -36,7 +36,11 @@ featured_image: /images/scenery/rainbow-observatory.jpg
 
 			<div class="post__content-wrap">
 				<div class="post__content">
-					<h2 class="post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+				  {% if post.has_gallery %}
+					  <h2 class="post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+					{% else %}
+					  <h2 class="post__title">{{ post.title }}</h2>
+					{% endif %}
 					<p class="post__subtitle">{{ post.subtitle }}</p>
 					<p class="post__description">{{ post.description }}</p>
 				</div>

@@ -25,7 +25,7 @@ current:
 
   - name: Negin Ketabchi (she/her)
     position: Graduate Student
-    about: Negin is a research assistant in the Lee lab with an undergraduate degree in Molecular Biology and Biochemistry. She is currently characterizing pathogen-associated genes in Pseudomonas aeruginosa to determine their virulence functions. In her spare time, she enjoys weight lifting at the gym, drinking ice coffee and watching true crime tv shows. 
+    about: Negin is a research assistant in the Lee lab with an undergraduate degree in Molecular Biology and Biochemistry. She is currently characterizing pathogen-associated genes in *Pseudomonas aeruginosa* to determine their virulence functions. In her spare time, she enjoys weight lifting at the gym, drinking ice coffee and watching true crime tv shows. 
     image_path: /images/people/current/negin-ketabchi.jpeg
     image_offset: 0% 10%
 
@@ -58,6 +58,19 @@ current:
     about: Miguel studies the impact of the microbiome in human disease. He is a Medical Doctor from the Universidad del Valle (Colombia) and has a MSc in Experimental Medicine (UBC). He has experience working in clinical research of neglected tropical diseases and biomarker discovery for Cystic Fibrosis. In his spare time, he likes to ride his bicycle (weather permitting), read fiction literature, and listen to punk rock music. 
     image_path: /images/people/current/miguel_prieto.jpg
     image_offset: 30% 0%
+    
+  - name: Lauren Kazak
+    position: Undergraduate Research Student
+    about: Lauren is a Molecular Biology and Biochemistry undergraduate student doing a directed research term in the Lee Lab. She is researching the relationship between aerobic metabolism and biofilm production in *Pseudomonas aeruginosa*. In her free time she enjoys crocheting, exploring new places to eat and the company of family and friends.
+    image_path: /images/people/current/lauren-kazak.jpg
+    image_offset: 100% 100%
+    
+  - name: Alex Redey
+    position: Undergraduate Research Student
+    about:  Alex is an undergraduate student in the Lee lab. Her current project involves evaluating DNA uptake capacity of *Klebsiella pneumoniae*. In her spare time, she enjoys soccer, swimming, running, and reading.
+    image_path: /images/people/current/alex-redey.jpg
+    image_offset: 100% 100%
+    
 
 alumni:
   - name: Patrick K. Taylor (he/him)

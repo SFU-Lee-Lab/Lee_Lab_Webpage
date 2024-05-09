@@ -25,7 +25,7 @@ current:
 
   - name: Negin Ketabchi (she/her)
     position: Graduate Student
-    about: Negin is a research assistant in the Lee lab with an undergraduate degree in Molecular Biology and Biochemistry. She is currently characterizing pathogen-associated genes in *Pseudomonas aeruginosa* to determine their virulence functions. In her spare time, she enjoys weight lifting at the gym, drinking ice coffee and watching true crime tv shows. 
+    about: Negin is a graduate student in the Lee Lab exploring host immune responses by applying bioinformatic analyses to understand complex human diseases focusing on the critical area of neonatal sepsis. Her project specifically aims to unravel the impact of prematurity and sepsis on neonatal immune developmental trajectories using whole-blood transcriptomics. In her spare time, she enjoys weight lifting at the gym, drinking ice coffee and watching true crime tv shows. 
     image_path: /images/people/current/negin-ketabchi.jpeg
     image_offset: 0% 10%
 
@@ -117,6 +117,24 @@ alumni:
 
   - name: Zukhro Pulatova
     position: Undergraduate Student
-    about:  Zukhro's research focused on isolating, identifying and examining K. pneumoniae from water sources and documenting their prevalence in these habitats. She will also perform whole-genome sequencing to determine their virulence potential and antibiotic resistance genes. In her free time she enjoys going on a walk.
+    about: Zukhro's research focused on isolating, identifying and examining K. pneumoniae from water sources and documenting their prevalence in these habitats. She will also perform whole-genome sequencing to determine their virulence potential and antibiotic resistance genes. In her free time she enjoys going on a walk.
     image_path: /images/people/current/zukhro-pulatova.jpg
     image_offset: 50% 50%
+
+  - name: Ella Chernis
+    position: Undergraduate Student
+    about: 
+    image_path: 
+    image_offset: 
+
+  - name: Arjun Mann
+    position: Undergraduate Student
+    about: 
+    image_path: 
+    image_offset:
+
+  - name: Camila Maurmann
+    position: Visiting PhD Student from Brazil
+    about: 
+    image_path: 
+    image_offset:

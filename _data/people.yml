@@ -11,12 +11,6 @@ current:
     image_path: /images/people/current/erica-acton.jpg
     image_offset: 68% 50%
 
-  - name: Joud Albeitshawish
-    position: Research Technician
-    about: Joud is a research technician at the Lee lab, co-supervised by Dr. Brinkman and Dr. Hsiao. She is currently working on nanopore sequencing and phenotype assays of antimicrobial-resistant microorganisms responsible for neonatal sepsis. When she’s not in the lab, Joud likes to take pictures, bake delicious treats, and seek out new adventures and experiences with her friends.
-    image_path: /images/people/current/joud-albeitshawish.jpeg
-    image_offset: 100% 100%
-
   - name: Kevin Luong Ning (he/him)
     position: Graduate Student
     about: Kevin is a graduate student in the Lee Lab focusing on comparative genomics to characterize *Klebsiella pneumoniae* infections in neonates for his MSc project. He enjoys learning new songs to play on the ukulele in his spare time and is frequently seen playing billiards.
@@ -47,12 +41,6 @@ current:
     image_path: /images/people/current/chloe-chan.JPG
     image_offset: 100% 100%
 
-  - name: Xiao Wu
-    position: Undergraduate Research Student co-supervised with Dr. Claudia DosSantos
-    about: Xiao is an undergraduate student helping with the detection of viral infections using RNA sequencing data from human samples. In her spare time, she enjoys exploring restaurants with friends, watching anime, and doing workouts at the gym.
-    image_path: /images/people/current/xiao-wu.jpg
-    image_offset: 100% 100%
-
   - name: Miguel D. Prieto
     position: Graduate Student (Ph.D.) co-supervised with Dr. William Hsaio
     about: Miguel studies the impact of the microbiome in human disease. He is a Medical Doctor from the Universidad del Valle (Colombia) and has a MSc in Experimental Medicine (UBC). He has experience working in clinical research of neglected tropical diseases and biomarker discovery for Cystic Fibrosis. In his spare time, he likes to ride his bicycle (weather permitting), read fiction literature, and listen to punk rock music. 
@@ -79,6 +67,12 @@ alumni:
     image_path: /images/people/alumni/pat-taylor.jpg
     image_offset: 75% 50%
 
+  - name: Joud Albeitshawish
+    position: Research Technician
+    about: Joud is a research technician at the Lee lab, co-supervised by Dr. Brinkman and Dr. Hsiao. She is currently working on nanopore sequencing and phenotype assays of antimicrobial-resistant microorganisms responsible for neonatal sepsis. When she’s not in the lab, Joud likes to take pictures, bake delicious treats, and seek out new adventures and experiences with her friends.
+    image_path: /images/people/current/joud-albeitshawish.jpeg
+    image_offset: 100% 100%
+
   - name: Christine Yang (she/her)
     position: DevOps at Amazon
     about: Christine is a master's student in the Lee Lab focusing on bioinformatics research. Her study focuses on GWAS pipelines and pseudomonas aeruginosa antibiotic resistance, biofilm formation, and swarming research. Besides studying, most of her time is on learning software, coding, and financial analysis.
@@ -90,6 +84,12 @@ alumni:
     about: Catherine is an undergrad at Simon Fraser University majoring in MBB and Chemistry and minoring in Educational Psychology. She works on the Pseudomonas project tinkering with the mGWAS pipeline. In her free time, she enjoys running, reading, listening to podcasts, and watching cat videos.
     image_path: /images/people/alumni/catherine-shin.png
     image_offset: 50% 50%
+    
+  - name: Camila Maurmann
+    position: Visiting PhD Student from Brazil
+    about: 
+    image_path: 
+    image_offset:
 
   - name: Karen Kang (she/her)
     position: Master of Public Health Student at the University of Toronto
@@ -98,13 +98,13 @@ alumni:
     image_offset: 50% 50%
 
   - name: Mahta Amanian (she/her)
-    position: Master of Management Student at the UBC Sauder School of Business
+    position: Student at UBC Medical School
     about: Mahta is an undergraduate research assistant working on a Genome Wide Association Study in collaboration between the Hancock Lab and Lee Lab. Her interest in learning about what makes humans sick and understanding the mechanisms of pathogenesis is what lead her to study Microbiology & Immunology. Outside of the lab, she enjoys biking, drawing, and juggling 5 Netflix shows at once.
     image_path: /images/people/alumni/mahta-amanian.jpg
     image_offset: 90% 50%
 
   - name: Elizabeth Fung
-    position: Undergraduate Student in Molecular Biology and Biochemistry (SFU)
+    position: Student at UBC Medical School
     about: Elizabeth is an undergraduate molecular biology and biochemistry student conducting bacterial phenotyping assays. Outside of the lab, she enjoys baking, hiking, and playing piano, violin, and soccer.
     image_path: /images/people/alumni/elizabeth-fung.jpg
     image_offset: 50% 50%
@@ -133,8 +133,9 @@ alumni:
     image_path: 
     image_offset:
 
-  - name: Camila Maurmann
-    position: Visiting PhD Student from Brazil
-    about: 
-    image_path: 
-    image_offset:
+
+  - name: Xiao Wu
+    position: Undergraduate Research Student co-supervised with Dr. Claudia DosSantos
+    about: Xiao is an undergraduate student helping with the detection of viral infections using RNA sequencing data from human samples. In her spare time, she enjoys exploring restaurants with friends, watching anime, and doing workouts at the gym.
+    image_path: /images/people/current/xiao-wu.jpg
+    image_offset: 100% 100%

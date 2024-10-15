@@ -11,13 +11,13 @@ current:
     image_path: /images/people/current/erica-acton.jpg
     image_offset: 68% 50%
 
-    name: Travis Blimkie
+  - name: Travis Blimkie
     position: Bioinformatician
     about: Travis is an experienced bioinformatician, who has worked on a large variety of omics projects, commonly engaging with RNA-Seq data to derive biological insights . His research areas include characterizing immune development in neonates, vaccine response in older adults, and bacterial motility and biofilm analyses. He enjoys creating R/Shiny apps and R packages to make data and tools available for use by the broader scientific community. In his spare time, he enjoys hiking and camping in the outdoors, playing guitar, and reading.
     image_path: /images/people/current/travis-blimkie.jpg
     image_offset: 68% 50%
 
-    name: Breanna Raymond
+  - name: Breanna Raymond
     position: Postdoctoral Fellow 
     about: Breanna is a postdoctoral fellow in the Lee Lab tracking the immune system development in newborns and how sepsis, vaccination, or climate factors cause deviations from a normal trajectory. On weekends she is happily hiking, playing volleyball, or spending time outdoors with friends and family.
     image_path: /images/people/current/breanna-raymond.jpg

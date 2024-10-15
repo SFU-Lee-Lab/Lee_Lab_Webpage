@@ -11,6 +11,19 @@ current:
     image_path: /images/people/current/erica-acton.jpg
     image_offset: 68% 50%
 
+    name: Travis Blimkie
+    position: Bioinformatician
+    about: Travis is an experienced bioinformatician, who has worked on a large variety of omics projects, commonly engaging with RNA-Seq data to derive biological insights . His research areas include characterizing immune development in neonates, vaccine response in older adults, and bacterial motility and biofilm analyses. He enjoys creating R/Shiny apps and R packages to make data and tools available for use by the broader scientific community. In his spare time, he enjoys hiking and camping in the outdoors, playing guitar, and reading.
+    image_path: /images/people/current/travis-blimkie.jpg
+    image_offset: 68% 50%
+
+    name: Breanna Raymond
+    position: Postdoctoral Fellow 
+    about: Breanna is a postdoctoral fellow in the Lee Lab tracking the immune system development in newborns and how sepsis, vaccination, or climate factors cause deviations from a normal trajectory. On weekends she is happily hiking, playing volleyball, or spending time outdoors with friends and family.
+    image_path: /images/people/current/breanna-raymond.jpg
+    image_offset: 68% 50%
+
+
   - name: Kevin Luong Ning (he/him)
     position: Graduate Student
     about: Kevin is a graduate student in the Lee Lab focusing on comparative genomics to characterize *Klebsiella pneumoniae* infections in neonates for his MSc project. He enjoys learning new songs to play on the ukulele in his spare time and is frequently seen playing billiards.
@@ -24,22 +37,10 @@ current:
     image_offset: 0% 10%
 
   - name: Jonathan Ho
-    position: Graduate Research Assistant
+    position: Graduate Student
     about: Jonathan is a research assistant in the Lee Lab studying *Klebsiella pneumoniae* using microbial GWAS and pangenome analyses to identify targets of interest. In his spare time, he enjoys playing volleyball and practicing piano.
     image_path: /images/people/current/jonathan-ho.jpg
     image_offset: 50% 50%
-
-  - name: Pearl Park
-    position: Undergraduate Co-op Student co-supervised with Dr. Pascal Lavoie
-    about: Pearl is an undergraduate student who is co-supervised by Dr. Lavoie and is working at the Lee Lab for her co-op term. Her project is based on finding any viral transcripts in RNA sequencing data of septic neonates. In her spare time, she enjoys playing spikeball and badminton with her friends and family.
-    image_path: /images/people/current/pearl-park.jpeg
-    image_offset: 100% 30%
-
-  - name: Chloe Chan
-    position: Undergraduate Research Student
-    about: Chloe is an undergraduate student in the UBC-BCIT Joint Honours in Biotechnology program. She is currently utilizing cloning strategies to determine the virulence functions of pathogen-associated genes in *Pseudomonas aeruginosa*. She is also working on developing cloning strategies to produce microbial pigments. In her spare time she enjoys biking, crocheting, and finding cute coffee shops around Vancouver with her friends.
-    image_path: /images/people/current/chloe-chan.JPG
-    image_offset: 100% 100%
 
   - name: Miguel D. Prieto
     position: Graduate Student (Ph.D.) co-supervised with Dr. William Hsaio
@@ -47,18 +48,17 @@ current:
     image_path: /images/people/current/miguel_prieto.jpg
     image_offset: 30% 0%
     
-  - name: Lauren Kazak
-    position: Undergraduate Research Student
-    about: Lauren is a Molecular Biology and Biochemistry undergraduate student doing a directed research term in the Lee Lab. She is researching the relationship between aerobic metabolism and biofilm production in *Pseudomonas aeruginosa*. In her free time she enjoys crocheting, exploring new places to eat and the company of family and friends.
-    image_path: /images/people/current/lauren-kazak.jpg
-    image_offset: 100% 100%
-    
   - name: Alex Redey
     position: Undergraduate Research Student
     about:  Alex is an undergraduate student in the Lee lab. Her current project involves evaluating DNA uptake capacity of *Klebsiella pneumoniae*. In her spare time, she enjoys soccer, swimming, running, and reading.
     image_path: /images/people/current/alex-redey.jpg
     image_offset: 100% 100%
     
+  - name: Mila Tkatchouk
+    position: Undergraduate Research Student
+    about:  Mila is an undergraduate student majoring in Molecular Biology and Biochemistry at SFU, doing a directed research semester in the Lee and Brinkman labs. She is currently examining the role of specific genes in the virulence of Pseudomonas aeruginosa, with the use of AlphaFold analyses of protein structure, cloning techniques, and virulence assays with a C. Elegans model of infection. In her spare time she enjoys playing video games, baking, and karaoke.
+    image_path: /images/people/current/mila-tkatchouk.jpg
+    image_offset:  0% 30%
 
 alumni:
   - name: Patrick K. Taylor (he/him)
@@ -71,7 +71,7 @@ alumni:
     position: Research Technician
     about: Joud is a research technician at the Lee lab, co-supervised by Dr. Brinkman and Dr. Hsiao. She is currently working on nanopore sequencing and phenotype assays of antimicrobial-resistant microorganisms responsible for neonatal sepsis. When she’s not in the lab, Joud likes to take pictures, bake delicious treats, and seek out new adventures and experiences with her friends.
     image_path: /images/people/current/joud-albeitshawish.jpeg
-    image_offset: 100% 100%
+    image_offset: 30% 0%
 
   - name: Christine Yang (she/her)
     position: DevOps at Amazon
@@ -138,4 +138,22 @@ alumni:
     position: Undergraduate Research Student co-supervised with Dr. Claudia DosSantos
     about: Xiao is an undergraduate student helping with the detection of viral infections using RNA sequencing data from human samples. In her spare time, she enjoys exploring restaurants with friends, watching anime, and doing workouts at the gym.
     image_path: /images/people/current/xiao-wu.jpg
+    image_offset: 100% 100%
+
+  - name: Pearl Park
+    position: Undergraduate Co-op Student co-supervised with Dr. Pascal Lavoie
+    about: Pearl is an undergraduate student who is co-supervised by Dr. Lavoie and is working at the Lee Lab for her co-op term. Her project is based on finding any viral transcripts in RNA sequencing data of septic neonates. In her spare time, she enjoys playing spikeball and badminton with her friends and family.
+    image_path: /images/people/current/pearl-park.jpeg
+    image_offset: 100% 30%
+
+  - name: Chloe Chan
+    position: Undergraduate Research Student
+    about: Chloe is an undergraduate student in the UBC-BCIT Joint Honours in Biotechnology program. She is currently utilizing cloning strategies to determine the virulence functions of pathogen-associated genes in *Pseudomonas aeruginosa*. She is also working on developing cloning strategies to produce microbial pigments. In her spare time she enjoys biking, crocheting, and finding cute coffee shops around Vancouver with her friends.
+    image_path: /images/people/current/chloe-chan.JPG
+    image_offset: 100% 100%
+
+  - name: Lauren Kazak
+    position: Undergraduate Research Student
+    about: Lauren is a Molecular Biology and Biochemistry undergraduate student doing a directed research term in the Lee Lab. She is researching the relationship between aerobic metabolism and biofilm production in *Pseudomonas aeruginosa*. In her free time she enjoys crocheting, exploring new places to eat and the company of family and friends.
+    image_path: /images/people/current/lauren-kazak.jpg
     image_offset: 100% 100%

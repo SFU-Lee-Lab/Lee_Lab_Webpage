@@ -24,17 +24,11 @@ current:
     image_offset: 68% 50%
 
 
-  - name: Kevin Luong Ning (he/him)
-    position: Graduate Student
-    about: Kevin is a graduate student in the Lee Lab focusing on comparative genomics to characterize *Klebsiella pneumoniae* infections in neonates for his MSc project. He enjoys learning new songs to play on the ukulele in his spare time and is frequently seen playing billiards.
-    image_path: /images/people/current/kevin-luong-ning.jpg
-    image_offset: 100% 50%
-
   - name: Negin Ketabchi (she/her)
     position: Graduate Student
     about: Negin is a graduate student in the Lee Lab exploring host immune responses by applying bioinformatic analyses to understand complex human diseases focusing on the critical area of neonatal sepsis. Her project specifically aims to unravel the impact of prematurity and sepsis on neonatal immune developmental trajectories using whole-blood transcriptomics. In her spare time, she enjoys weight lifting at the gym, drinking ice coffee and watching true crime tv shows. 
-    image_path: /images/people/current/negin-ketabchi.jpeg
-    image_offset: 0% 10%
+    image_path: /images/people/current/negin-ketabchi2.JPG
+    image_offset: 50% 30%
 
   - name: Jonathan Ho
     position: Graduate Student
@@ -59,6 +53,14 @@ current:
     about:  Mila is an undergraduate student majoring in Molecular Biology and Biochemistry at SFU, doing a directed research semester in the Lee and Brinkman labs. She is currently examining the role of specific genes in the virulence of Pseudomonas aeruginosa, with the use of AlphaFold analyses of protein structure, cloning techniques, and virulence assays with a C. Elegans model of infection. In her spare time she enjoys playing video games, baking, and karaoke.
     image_path: /images/people/current/mila-tkatchouk.jpg
     image_offset:  0% 30%
+
+  - name: Olga Pacios Santamaría (she/her)
+    position: Postdoctoral Fellow 
+    about: Olga is a postdoctoral fellow in the Cullis/Russell Lab and the Lee Lab, contributing to the development of mRNA-LNP bacterial vaccines. Her main focuses are sequencing clinical isolates and establishing challenge models for immunization studies. She loves traveling, hiking in the lakes and mountains of BC, and camping (when the weather cooperates with her Spanish blood!)
+    image_path: /images/people/current/olga-pacios.png
+    image_offset: 0% 10%
+
+
 
 alumni:
   - name: Patrick K. Taylor (he/him)
@@ -157,3 +159,9 @@ alumni:
     about: Lauren is a Molecular Biology and Biochemistry undergraduate student doing a directed research term in the Lee Lab. She is researching the relationship between aerobic metabolism and biofilm production in *Pseudomonas aeruginosa*. In her free time she enjoys crocheting, exploring new places to eat and the company of family and friends.
     image_path: /images/people/current/lauren-kazak.jpg
     image_offset: 100% 100%
+
+  - name: Kevin Luong Ning (he/him)
+    position: Graduate Student
+    about: Kevin is a graduate student in the Lee Lab focusing on comparative genomics to characterize *Klebsiella pneumoniae* infections in neonates for his MSc project. He enjoys learning new songs to play on the ukulele in his spare time and is frequently seen playing billiards.
+    image_path: /images/people/current/kevin-luong-ning.jpg
+    image_offset: 100% 50%

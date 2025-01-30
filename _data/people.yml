@@ -5,16 +5,16 @@ current:
     image_path: /images/people/current/amy-lee.jpg
     image_offset: 50% 15%
 
-  - name: Erica Acton
-    position: Bioinformatician
-    about: Erica is a bioinformatician who eats ‘omics data for breakfast. She is currently using machine learning techniques to find molecular signatures for neonatal sepsis, as well as for disease severity in Covid patients. In her spare time she likes to hike preposterous distances, preferably on difficult terrain.
-    image_path: /images/people/current/erica-acton.jpg
-    image_offset: 68% 50%
-
   - name: Michael Trimble
     position: Lab Manager
     about: Mike completed his PhD in Microbiology at Indiana University, where he investigated cell division in the bacterium Caulobacter crescentus. He then worked as a postdoctoral fellow at the University of Iowa and the University of British Columbia, studying bacterial motility, cellular signaling, biofilms, and antimicrobials. His work led to an interest in infectious diseases, microbiomes, and genomics. When he’s not in the lab, he enjoys spending time with his family and taking his dog for walks up and down Burnaby Mountain.
     image_path: /images/people/current/michael-trimble.png
+    image_offset: 68% 50%
+
+  - name: Erica Acton
+    position: Bioinformatician
+    about: Erica is a bioinformatician who eats ‘omics data for breakfast. She is currently using machine learning techniques to find molecular signatures for neonatal sepsis, as well as for disease severity in Covid patients. In her spare time she likes to hike preposterous distances, preferably on difficult terrain.
+    image_path: /images/people/current/erica-acton.jpg
     image_offset: 68% 50%
 
   - name: Travis Blimkie
@@ -29,6 +29,11 @@ current:
     image_path: /images/people/current/breanna-raymond.jpg
     image_offset: 68% 50%
 
+  - name: Olga Pacios Santamaría (she/her)
+    position: Postdoctoral Fellow 
+    about: Olga is a postdoctoral fellow in the Cullis/Russell Lab and the Lee Lab, contributing to the development of mRNA-LNP bacterial vaccines. Her main focuses are sequencing clinical isolates and establishing challenge models for immunization studies. She loves traveling, hiking in the lakes and mountains of BC, and camping (when the weather cooperates with her Spanish blood!)
+    image_path: /images/people/current/olga-pacios.png
+    image_offset: 0% 10%
 
   - name: Negin Ketabchi (she/her)
     position: Graduate Student
@@ -38,7 +43,7 @@ current:
 
   - name: Jonathan Ho
     position: Graduate Student
-    about: Jonathan is a research assistant in the Lee Lab studying *Klebsiella pneumoniae* using microbial GWAS and pangenome analyses to identify targets of interest. In his spare time, he enjoys playing volleyball and practicing piano.
+    about: Jonathan is a graduate student in the Lee Lab studying plasmids within *Klebsiella pneumoniae*. He aims to understand the distribution and dynamics of plasmids by using phylogenetics, comparative genomics, microbial GWAS. In his spare time, he enjoys playing volleyball, practicing piano, and ~~breaking~~ learning his Linux desktop.
     image_path: /images/people/current/jonathan-ho.jpg
     image_offset: 50% 50%
 
@@ -59,12 +64,6 @@ current:
     about:  Mila is an undergraduate student majoring in Molecular Biology and Biochemistry at SFU, doing a directed research semester in the Lee and Brinkman labs. She is currently examining the role of specific genes in the virulence of Pseudomonas aeruginosa, with the use of AlphaFold analyses of protein structure, cloning techniques, and virulence assays with a C. Elegans model of infection. In her spare time she enjoys playing video games, baking, and karaoke.
     image_path: /images/people/current/mila-tkatchouk.jpg
     image_offset:  0% 30%
-
-  - name: Olga Pacios Santamaría (she/her)
-    position: Postdoctoral Fellow 
-    about: Olga is a postdoctoral fellow in the Cullis/Russell Lab and the Lee Lab, contributing to the development of mRNA-LNP bacterial vaccines. Her main focuses are sequencing clinical isolates and establishing challenge models for immunization studies. She loves traveling, hiking in the lakes and mountains of BC, and camping (when the weather cooperates with her Spanish blood!)
-    image_path: /images/people/current/olga-pacios.png
-    image_offset: 0% 10%
 
 
 
@@ -93,6 +92,12 @@ alumni:
     image_path: /images/people/alumni/catherine-shin.png
     image_offset: 50% 50%
     
+  - name: Kevin Luong Ning (he/him)
+    position: Graduate Student
+    about: Kevin is a graduate student in the Lee Lab focusing on comparative genomics to characterize *Klebsiella pneumoniae* infections in neonates for his MSc project. He enjoys learning new songs to play on the ukulele in his spare time and is frequently seen playing billiards.
+    image_path: /images/people/current/kevin-luong-ning.jpg
+    image_offset: 100% 50%
+
   - name: Camila Maurmann
     position: Visiting PhD Student from Brazil
     about: 
@@ -141,7 +146,6 @@ alumni:
     image_path: 
     image_offset:
 
-
   - name: Xiao Wu
     position: Undergraduate Research Student co-supervised with Dr. Claudia DosSantos
     about: Xiao is an undergraduate student helping with the detection of viral infections using RNA sequencing data from human samples. In her spare time, she enjoys exploring restaurants with friends, watching anime, and doing workouts at the gym.
@@ -166,8 +170,3 @@ alumni:
     image_path: /images/people/current/lauren-kazak.jpg
     image_offset: 100% 100%
 
-  - name: Kevin Luong Ning (he/him)
-    position: Graduate Student
-    about: Kevin is a graduate student in the Lee Lab focusing on comparative genomics to characterize *Klebsiella pneumoniae* infections in neonates for his MSc project. He enjoys learning new songs to play on the ukulele in his spare time and is frequently seen playing billiards.
-    image_path: /images/people/current/kevin-luong-ning.jpg
-    image_offset: 100% 50%

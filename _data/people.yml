@@ -22,6 +22,12 @@ current:
     about: Travis is an experienced bioinformatician, who has worked on a large variety of omics projects, commonly engaging with RNA-Seq data to derive biological insights . His research areas include characterizing immune development in neonates, vaccine response in older adults, and bacterial motility and biofilm analyses. He enjoys creating R/Shiny apps and R packages to make data and tools available for use by the broader scientific community. In his spare time, he enjoys hiking and camping in the outdoors, playing guitar, and reading.
     image_path: /images/people/current/travis-blimkie.jpg
     image_offset: 68% 50%
+    
+  - name: Negin Ketabchi (she/her)
+    position: Project Manager
+    about: Negin is the Project Manager in the Lee Lab, where she helps coordinate ongoing research projects, supports trainees, and keeps things running smoothly across the lab. She completed her M.Sc. in Molecular Biology and Biochemistry at Simon Fraser University, where she worked on neonatal sepsis and prematurity using whole-blood transcriptomics and bioinformatic approaches to study immune development. She’s broadly interested in host-pathogen interactions and translating computational analyses into clinically meaningful insights. Outside of work, she enjoys weight training at the gym, iced coffee, and true crime documentaries.
+    image_path: /images/people/current/negin-ketabchi2.JPG
+    image_offset: 50% 30%
 
   - name: Breanna Raymond
     position: Postdoctoral Fellow 
@@ -35,36 +41,67 @@ current:
     image_path: /images/people/current/olga-pacios.png
     image_offset: 0% 10%
 
-  - name: Negin Ketabchi (she/her)
-    position: Graduate Student
-    about: Negin is a graduate student in the Lee Lab exploring host immune responses by applying bioinformatic analyses to understand complex human diseases focusing on the critical area of neonatal sepsis. Her project specifically aims to unravel the impact of prematurity and sepsis on neonatal immune developmental trajectories using whole-blood transcriptomics. In her spare time, she enjoys weight lifting at the gym, drinking ice coffee and watching true crime tv shows. 
-    image_path: /images/people/current/negin-ketabchi2.JPG
-    image_offset: 50% 30%
+  - name: Jimmy Liu
+    position: Postdoctoral fellow
+    about: Jimmy is a postdoctoral fellow in the Lee Lab whose research focuses on bioinformatics and infectious diseases. He completed his PhD at Simon Fraser University in 2026, where he developed innovative computational methods to model and compare genomic variation at population scales to support and enhance Salmonella genomic surveillance. Building on this foundation, he is now expanding his research into human clinical genomics, with a particular interest in understanding the translational pathway from genomics technology development to implementation in clinical practice. His current work aims to bridge computational innovation and clinical operations, advancing the adoption of genomics-enabled solutions in healthcare settings.
+    image_path: /images/people/current/Jimmy-liu.jpg
+    image_offset: 30% 0%
 
   - name: Jonathan Ho
-    position: Graduate Student
+    position: PhD Student
     about: Jonathan is a graduate student in the Lee Lab studying plasmids within *Klebsiella pneumoniae*. He aims to understand the distribution and dynamics of plasmids by using phylogenetics, comparative genomics, microbial GWAS. In his spare time, he enjoys playing volleyball, practicing piano, and ~~breaking~~ learning his Linux desktop.
     image_path: /images/people/current/jonathan-ho.jpg
     image_offset: 50% 50%
 
   - name: Miguel D. Prieto
-    position: Graduate Student (Ph.D.) co-supervised with Dr. William Hsaio
+    position: PhD Student co-supervised with Dr. William Hsaio
     about: Miguel studies the impact of the microbiome in human disease. He is a Medical Doctor from the Universidad del Valle (Colombia) and has a MSc in Experimental Medicine (UBC). He has experience working in clinical research of neglected tropical diseases and biomarker discovery for Cystic Fibrosis. In his spare time, he likes to ride his bicycle (weather permitting), read fiction literature, and listen to punk rock music. 
     image_path: /images/people/current/miguel_prieto.jpg
     image_offset: 30% 0%
-    
+
+  - name: Nilton Araripe dos Santos Neto
+    position: Visiting PhD Student
+    about: Nilton is a visiting Graduate student at the Lee Lab from Franco lab in Brazil where he studies AMR in Acinetobacter baumannii. His project aims to understand how AMR against last resort therapies is developed specifically in XDR isolates found in the clinical environment. In his spare time, he enjoys playing games (videogames, boardgames), watching anime (specially One Piece!) and hiking.
+    image_path: /images/people/current/nilton-araripe.jpg
+    image_offset: 30% 0%  
+
   - name: Alex Redey
-    position: Undergraduate Research Student
+    position: MSc Student
     about:  Alex is an undergraduate student in the Lee lab. Her current project involves evaluating DNA uptake capacity of *Klebsiella pneumoniae*. In her spare time, she enjoys soccer, swimming, running, and reading.
     image_path: /images/people/current/alex-redey.jpg
     image_offset: 100% 100%
     
   - name: Mila Tkatchouk
-    position: Undergraduate Research Student
+    position: MSc Student
     about:  Mila is an undergraduate student majoring in Molecular Biology and Biochemistry at SFU, doing a directed research semester in the Lee and Brinkman labs. She is currently examining the role of specific genes in the virulence of Pseudomonas aeruginosa, with the use of AlphaFold analyses of protein structure, cloning techniques, and virulence assays with a C. Elegans model of infection. In her spare time she enjoys playing video games, baking, and karaoke.
     image_path: /images/people/current/mila-tkatchouk.jpg
     image_offset:  0% 30%
 
+  - name: Jaskirat Mann
+    position: MSc Student co-supervised with Dr. Andrew Blaber
+    about: Currently, Jaskirat is conducting RNA-seq analysis to study the genetic effects observed in humans exposed to microgravity conditions. She has also worked on bioinformatics projects involving microbial gWAS and phylogenetic analysis. In her spare time, she enjoys working out, cooking and playing soccer.
+    image_path: /images/people/current/jaskirat-mann.jpg
+    image_offset: 30% 0%
+
+  - name: Anaïk Ferradini
+    position: Undergraduate Research Student
+    about: Anaïk is an undergraduate student majoring in Immunology and Microbiology at McGill University and is working in the Lee Lab for the summer. She is currently working on the genomic analysis of bacterial strains from neonatal sepsis patients. In her spare time, she enjoys everything outdoors, whether it’s hiking, camping, running, or cross-country skiing in the winter.
+    image_path: /images/people/current/anaik-ferradini.jpeg
+    image_offset: 30% 0%
+
+  - name: Declan O’Sullivan
+    position: Undergraduate Research Student
+    about: Declan is an undergraduate student in the department of Molecular Biology and Biochemistry at SFU, doing a directed research semester in the Lee lab. He is currently generating a transposon mutagenesis library to identify specific fitness genes important for the survival of Klebsiella pneumoniae within neonates. When not in the lab, he enjoys playing chess, soccer, reading and traveling!
+    image_path: /images/people/current/declan-o.jpg
+    image_offset: 30% 0%
+
+  - name: Sophie Tang
+    position: Undergraduate Research Student
+    about: Sophie is an undergraduate student utilizing bioinformatics tools to research biomarkers for COVID and ARDS patients.
+    image_path: /images/people/current/sophie-tang.jpg
+    image_offset: 50% 20%
+  
+ 
 
 
 alumni:
@@ -169,4 +206,14 @@ alumni:
     about: Lauren is a Molecular Biology and Biochemistry undergraduate student doing a directed research term in the Lee Lab. She is researching the relationship between aerobic metabolism and biofilm production in *Pseudomonas aeruginosa*. In her free time she enjoys crocheting, exploring new places to eat and the company of family and friends.
     image_path: /images/people/current/lauren-kazak.jpg
     image_offset: 100% 100%
+
+  - name: Avleen Sahota
+    position: Undergraduate Research Student
+
+  - name: Elise Brinkman
+    position: Undergraduate Research Student
+
+  - name: Amanda Wong
+    position: Undergraduate Research Student
+
 

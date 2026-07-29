@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '3.9.1'
-gem 'kramdown', '2.3.1'
+gem 'jekyll'
+gem 'kramdown'
+
 # The kramdown GFM parser was only part of the kramdown distribution until kramdown version 2.0.0.
 gem 'kramdown-parser-gfm'
 
@@ -10,4 +11,11 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
 end
 
-#gem "webrick", "~> 1.8"
+# This may need to be commented out when pushing for deployment
+gem 'webrick'
+
+# Required after the Ruby update
+gem 'logger'
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'

@@ -44,7 +44,7 @@ Includes a list of publications which are added to the `/publications` page of t
 
 Most pages are markdown files which can be found in the `_pages` folder. At the top of the file, there are special **front matter variables**:
 
-`title` – controls the title of the page, which appears in the browser's title bar as well. It is also shown in search engine results and social shares.
+`title` – Controls the title of the page, which appears in the browser's title bar as well. It is also shown in search engine results and social shares.
 
 `subtitle` – Appears below the title. If not wanted, leave it blank.
 
@@ -57,6 +57,7 @@ Most pages are markdown files which can be found in the `_pages` folder. At the 
 Some pages might have additional front matter variables. To add custom ones, first define it like normal in the front matter. Next, access it in the markdown below by typing `{{ page.<variable_name> }}`.
 
 A few other notes:
+
 - A newline can be forced in markdown by putting two spaces at the end of a line.
 
 ---

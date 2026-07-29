@@ -12,7 +12,7 @@ group :jekyll_plugins do
 end
 
 # This may need to be commented out when pushing for deployment
-gem 'webrick'
+# gem 'webrick'
 
 # Required after the Ruby update
 gem 'logger'

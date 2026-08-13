@@ -23,6 +23,12 @@ current:
     image_path: /images/people/current/travis-blimkie.jpg
     image_offset: 68% 50%
     
+  - name: Kyle LeBlanc
+    position: Research Assistant
+    about: Kyle is a Master of Public Health (MPH) student at Simon Fraser University with a B.Sc. in Microbiology from the University of Victoria. Prior to joining the Lee Lab, he worked at the Public Health Agency of Canada’s National Microbiology Laboratory supporting COVID-19 diagnostics and research. In the Lee Lab, Kyle works on a collaborative project with Fraser Health on the genomic surveillance of Clostridioides difficile. His interests include infectious disease epidemiology, public health surveillance, and health data analytics.
+    image_path: /images/people/current/kyle-leblanc.JPG
+    image_offset: 50% 30%
+
   - name: Negin Ketabchi (she/her)
     position: Project Manager
     about: Negin is the Project Manager in the Lee Lab, where she helps coordinate ongoing research projects, supports trainees, and keeps things running smoothly across the lab. She completed her M.Sc. in Molecular Biology and Biochemistry at Simon Fraser University, where she worked on neonatal sepsis and prematurity using whole-blood transcriptomics and bioinformatic approaches to study immune development. She’s broadly interested in host-pathogen interactions and translating computational analyses into clinically meaningful insights. Outside of work, she enjoys weight training at the gym, iced coffee, and true crime documentaries.

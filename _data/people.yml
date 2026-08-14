@@ -64,13 +64,7 @@ current:
     about: Miguel studies the impact of the microbiome in human disease. He is a Medical Doctor from the Universidad del Valle (Colombia) and has a MSc in Experimental Medicine (UBC). He has experience working in clinical research of neglected tropical diseases and biomarker discovery for Cystic Fibrosis. In his spare time, he likes to ride his bicycle (weather permitting), read fiction literature, and listen to punk rock music. 
     image_path: /images/people/current/miguel_prieto.jpg
     image_offset: 30% 0%
-
-  - name: Nilton Araripe dos Santos Neto
-    position: Visiting PhD Student
-    about: Nilton is a visiting Graduate student at the Lee Lab from Franco lab in Brazil where he studies AMR in Acinetobacter baumannii. His project aims to understand how AMR against last resort therapies is developed specifically in XDR isolates found in the clinical environment. In his spare time, he enjoys playing games (videogames, boardgames), watching anime (specially One Piece!) and hiking.
-    image_path: /images/people/current/nilton-araripe.jpg
-    image_offset: 30% 0%  
-
+ 
   - name: Alex Redey
     position: MSc Student
     about:  Alex is an undergraduate student in the Lee lab. Her current project involves evaluating DNA uptake capacity of *Klebsiella pneumoniae*. In her spare time, she enjoys soccer, swimming, running, and reading.
@@ -87,12 +81,6 @@ current:
     position: MSc Student co-supervised with Dr. Andrew Blaber
     about: Currently, Jaskirat is conducting RNA-seq analysis to study the genetic effects observed in humans exposed to microgravity conditions. She has also worked on bioinformatics projects involving microbial gWAS and phylogenetic analysis. In her spare time, she enjoys working out, cooking and playing soccer.
     image_path: /images/people/current/jaskirat-mann.jpg
-    image_offset: 30% 0%
-
-  - name: Anaïk Ferradini
-    position: Undergraduate Research Student
-    about: Anaïk is an undergraduate student majoring in Immunology and Microbiology at McGill University and is working in the Lee Lab for the summer. She is currently working on the genomic analysis of bacterial strains from neonatal sepsis patients. In her spare time, she enjoys everything outdoors, whether it’s hiking, camping, running, or cross-country skiing in the winter.
-    image_path: /images/people/current/anaik-ferradini.jpeg
     image_offset: 30% 0%
 
   - name: Declan O’Sullivan
@@ -222,4 +210,15 @@ alumni:
   - name: Amanda Wong
     position: Undergraduate Research Student
 
+  - name: Nilton Araripe dos Santos Neto
+    position: Visiting PhD Student
+    about: Nilton is a visiting Graduate student at the Lee Lab from Franco lab in Brazil where he studies AMR in Acinetobacter baumannii. His project aims to understand how AMR against last resort therapies is developed specifically in XDR isolates found in the clinical environment. In his spare time, he enjoys playing games (videogames, boardgames), watching anime (specially One Piece!) and hiking.
+    image_path: /images/people/current/nilton-araripe.jpg
+    image_offset: 30% 0% 
+
+  - name: Anaïk Ferradini
+    position: Undergraduate Research Student
+    about: Anaïk is an undergraduate student majoring in Immunology and Microbiology at McGill University and is working in the Lee Lab for the summer. She is currently working on the genomic analysis of bacterial strains from neonatal sepsis patients. In her spare time, she enjoys everything outdoors, whether it’s hiking, camping, running, or cross-country skiing in the winter.
+    image_path: /images/people/current/anaik-ferradini.jpeg
+    image_offset: 30% 0%
 

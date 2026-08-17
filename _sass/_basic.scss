@@ -4,7 +4,6 @@
 
 // - - - - - - - - - - - - - - - - - -
 
-@use "sass:color";
 
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Basics
@@ -224,8 +223,8 @@ a {
 	}
 
 	&:hover {
-		background: color.adjust($accent-color, $hue: 15);
-		border-color: color.adjust($accent-color, $hue: 15);
+		background: adjust-hue($accent-color,15%);
+		border-color: adjust-hue($accent-color,15%);
 		color: $background-color;
 	}
 
